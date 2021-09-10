@@ -15,6 +15,6 @@
 
 <h1>My GitHub Stats</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=umair9747&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umair9747&theme=radical&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=VRRemi&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRRemi&theme=radical&layout=compact)
 <br>
