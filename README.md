@@ -3,7 +3,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <div align="center">
   <div align="center">
   <p>I'm Adam or other known as VRRemi. I use to be a Game Cheat Developer for leading anti-
-    heats like Easy-Anticheat(EAC) or Battleye(BE). Not everything on my Github is public, but I make sure they still work just in case anyone else wants to fork/take-over the project.</p>
+    heats like Easy-Anticheat(EAC) or Battleye(BE). Not everything on my Github is public, but I make sure they still work just incase anyone else wants to fork/take-over the project.</p>
 
   <p><b>Connect with me through:</b></p>
   
