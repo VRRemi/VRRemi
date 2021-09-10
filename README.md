@@ -12,12 +12,12 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 
 <hr>
     
-<h1>Recognitions</h1>
+  <h1>Recognitions</h1>
 
 <img height="100" src="https://unknowncheats.me/w/images/2/20/EAC.jpg">
 <img height="100" src="https://unknowncheats.me/w/images/6/62/Battleye2.png">
     
-<h1>Languages</h1>
+  <h1>Languages</h1>
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">                            
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">                                               
@@ -29,8 +29,11 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 
 <br><br>
 
-<h1>My GitHub Stats</h1>
+  <h1>My GitHub Stats</h1>
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=VRRemi&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRRemi&theme=radical&layout=compact)
 <br>
+    
+    <h1>Credits</h1>
+<p>Forked from <a href="https://github.com/umair9747" target="_blank">Umair On Github</a>
