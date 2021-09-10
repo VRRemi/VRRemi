@@ -35,5 +35,4 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRRemi&theme=radical&layout=compact)
 <br>
     
-    <h1>Credits</h1>
-<p>Forked from <a href="https://github.com/umair9747" target="_blank">Umair On Github</a>
+    Credits go to Umair9747 for the beautiful fork
