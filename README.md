@@ -2,7 +2,8 @@
 src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
 <div align="center">
   <div align="center">
-  <p>I'm Adam or other known as VRRemi. I use to be a Game Cheat Developer for leading anti-cheats like Easy-Anticheat(EAC) or Battleye(BE). Not everything on my Github is public, but I make sure they still work just in case anyone else wants to fork/take-over the project.</p>
+  <p>I'm Adam or other known as VRRemi. I use to be a Game Cheat Developer for leading anti-
+    heats like Easy-Anticheat(EAC) or Battleye(BE). Not everything on my Github is public, but I make sure they still work just in case anyone else wants to fork/take-over the project.</p>
 
   <p><b>Connect with me through:</b></p>
   
@@ -16,9 +17,9 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="100" src="https://unknowncheats.me/w/images/2/20/EAC.jpg">
 <img height="100" src="https://unknowncheats.me/w/images/6/62/Battleye2.png">
     
-<h1>Technologies</h1>
+<h1>Languages</h1>
 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"> <img height="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-PTty3CfTGnA%2FTpZOEjTQ_WI%2FAAAAAAAAAeo%2FKeKt_D5X2xo%2Fs1600%2Fjs.jpg&f=1&nofb=1"> <img height ="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F1200px-Typescript_logo_2020.svg.png&f=1&nofb=1"> <img height ="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fpython-logo-png-4.jpg&f=1&nofb=1"> <img height ="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.techbaz.org%2FCourse%2Fimg%2Fcsharp-logo.png&f=1&nofb=1">
 
 <br><br>
 
