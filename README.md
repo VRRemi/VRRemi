@@ -35,4 +35,4 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRRemi&theme=radical&layout=compact)
 <br>
     
-  Credits go to <a href="https://vrremi.xyz" target="_blank">Umair9747</a> for the beautiful fork
+  Credits go to Umair9747 for the beautiful fork
