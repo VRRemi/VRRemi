@@ -14,7 +14,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
     
   <h1>Recognitions</h1>
 
-<img height="100" src="https://unknowncheats.me/w/images/2/20/EAC.jpg">
+<a href="https://vrremi.xyz" target="_blank"> <img height="100" src="https://unknowncheats.me/w/images/2/20/EAC.jpg">
 <img height="100" src="https://unknowncheats.me/w/images/6/62/Battleye2.png">
     
   <h1>Technologies</h1>
