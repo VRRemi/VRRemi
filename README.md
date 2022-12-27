@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm <a href="https://vrremi.xyz" target="_blank">Adam(VRRemi)</a> <img
+<h1 align="center">Hello there! I'm <a href="https://remioxo.me" target="_blank">Adam(VRRemi)</a> <img
 src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
 <div align="center">
   <div align="center">
@@ -7,13 +7,13 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
   <p><b>Connect with me through:</b></p>
   
 [![Twitter Badge](https://img.shields.io/badge/-@VRRemii-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VRRemii)](https://twitter.com/VRRemii)
-[![Gmail Badge](https://img.shields.io/badge/-business@vrremi.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:business@vrremi.xyz)](mailto:remioxo@remioxo.me)
+[![Gmail Badge](https://img.shields.io/badge/-remioxo@remioxo.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:remioxo@remioxo.me)](mailto:remioxo@remioxo.me)
 
 <hr>
     
   <h1>Recognitions</h1>
 
-<a href="https://vrremi.xyz" target="_blank"> <img height="100" src="https://unknowncheats.me/w/images/2/20/EAC.jpg">
+<a href="https://remioxo.me" target="_blank"> <img height="100" src="https://unknowncheats.me/w/images/2/20/EAC.jpg">
     
   
   <h1>Technologies</h1>
