@@ -7,7 +7,6 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
   <p><b>Connect with me through:</b></p>
   
 [![Twitter Badge](https://img.shields.io/badge/-@VRRemii-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VRRemii)](https://twitter.com/VRRemii)
-[![Gmail Badge](https://img.shields.io/badge/-remioxo@remioxo.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:remioxo@remioxo.me)](mailto:remioxo@remioxo.me)
 
 <hr>
     
